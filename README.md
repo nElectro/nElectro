@@ -1,4 +1,4 @@
-https://streamable.com/oi44u
+https://i.imgur.com/lnKaxev.gif
 
 <!--
 **nElectro/nElectro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
