@@ -1,5 +1,7 @@
-https://i.imgur.com/lnKaxev.gif
-
+- 🔭 I’m currently working on A-Bot.
+- 🌱 I’m currently learning Python.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: You're Stalking me.
 <!--
 **nElectro/nElectro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
