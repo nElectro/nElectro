@@ -1,3 +1,2 @@
 [![Electro's GitHub stats](https://github-readme-stats.vercel.app/api?username=nElectro)]
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nElectro&theme=solarized_dark)
