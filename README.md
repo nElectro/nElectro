@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Electro</h1>
-<h3 align="center">A self-taught developer.</h3>
+<h3 align="center">A self-taught Python developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelectro" alt="nelectro" /></a> </p>
 
