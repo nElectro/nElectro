@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Electro</h1>
-<h3 align="center">A self-taught Python developer. Even tho I code more in lua but</h3>
+### Hi there 👋, I'm electro
+#### Just another self-taught Lua & Python front-end developer.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelectro" alt="nelectro" /></a> </p>
+Skills: LUA / Python
 
-<p align="left">
-</p>
+- 🔭 I’m currently working on X-Crazy 
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nelectro&show_icons=true&locale=en&layout=compact" alt="nelectro" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nElectro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Notm1guel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.electro.gq)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nelectro&show_icons=true&locale=en" alt="nelectro" /></p>
