@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm electro
-#### Just another self-taught Lua & Python front-end developer.
+#### Just another self-taught Lua & Python.
 
 Skills: LUA / Python
 
